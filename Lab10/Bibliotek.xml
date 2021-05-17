@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliotek>
+    <author id ="1" name ="Taras Shevchenko" >
+        <book id ="1" name = "Kavkaz" pages="120"/>
+        <book id ="2" name = "Katheryna"  pages="160"/>
+        <book id ="3" name = "Son"  pages="30"/>
+        <book id ="4" name = "Haidamaki"  pages="50"/>
+    </author>
+    <author id ="2" name ="Ivan Franko" >
+        <book id ="5" name = "Zahar Berkut" pages="260"/>
+        <book id ="6" name = "Ziviale Lystya" pages="200"/>
+    </author>
+    <author id ="3" name ="Lesya Ukrainka" >
+        <book id ="7" name = "Lisova Pisnya" pages="140"/>
+        <book id ="8" name = "Contra Spem Spero" pages="2"/>
+    </author>
+    <author id ="4" name ="Lina Kostenko" >
+        <book id ="9" name = "Marysya Churay" pages="210"/>
+        <book id ="10" name = "Strashni slova" pages="2"/>
+        <book id ="11" name = "Ukrainske alfresko" pages="2"/>
+    </author>
+</bibliotek>
